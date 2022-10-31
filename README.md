@@ -10,7 +10,7 @@
 6. Directions Service
 7. Directions Renderer on map
 
-## Youtube tutorial
+## Youtube .tutorial
 
 [https://youtu.be/iP3DnhCUIsE](https://youtu.be/iP3DnhCUIsE)
 
